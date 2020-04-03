@@ -5,3 +5,6 @@ def unsafe?(speed)
     !TRUE
   end
 end
+
+end
+
