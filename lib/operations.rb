@@ -5,9 +5,6 @@ if speed="<60"
   puts "true"
 else
   false
-  
-  
-
 end
 
 
